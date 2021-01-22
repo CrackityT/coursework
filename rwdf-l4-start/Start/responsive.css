@@ -11,7 +11,7 @@
   order: 10;
 }
 
-@media screen and (max-width: 530px) {
+@media screen and (max-width: 545px) {
   .header__logo {
     height: 50px;
     margin-right: 0.5em;
@@ -52,7 +52,7 @@
   }
 }
 
-@media screen and (min-width: 531px) {
+@media screen and (min-width: 546px) {
 
   .hero {
     order: 0;
